@@ -1,6 +1,6 @@
 {
   "name": "fy-log",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A beautiful console log utility with styled output",
   "main": "dist/index.js",
   "module": "dist/index.js",
