@@ -1,0 +1,26 @@
+{
+  "name": "fy-log",
+  "version": "1.0.2",
+  "description": "A beautiful console log utility with styled output",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "log",
+    "console",
+    "styled-console",
+    "debug"
+  ],
+  "author": "FengYe",
+  "license": "ISC",
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.2"
+  }
+}
