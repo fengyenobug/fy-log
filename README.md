@@ -2,6 +2,8 @@
 
 一个美观的控制台日志工具，支持样式化输出。提供了多种预设样式，并支持自定义样式。
 
+![fy-log](https://i.imgur.com/VaqeCdO.png)
+
 ## 特性
 
 - 🎨 内置多种预设样式（success、error、warning、info、debug）
